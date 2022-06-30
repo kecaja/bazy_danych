@@ -39,5 +39,6 @@ $numrows = pg_numrows($result);
  pg_close($link);
 ?>
 </table>
+<p align=center><a href="add_film_form.php">Dodaj film</a></p>
 </body>
 </html>
