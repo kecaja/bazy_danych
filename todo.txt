@@ -1,0 +1,4 @@
+Add password to seller database
+Add scripts to add seller and seance and offer
+Add week to seance
+Add bootstrap styles

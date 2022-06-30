@@ -1,0 +1,1 @@
+w momencie tworzenia bazy dancyh w komendzie gdzie jest foreign key dodaje "on delete casacade" lub cos takiego xd
